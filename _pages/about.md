@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am Jianfeng Wang, a third-year Ph.D. candidate in the Department of Electronic Engineering at Tsinghua University. I began my doctoral studies in 2022 and anticipate completing my degree in 2027. Prior to this, I earned my Bachelor’s degree in Electronic Engineering from Tsinghua University (2018–2022).
+
+My research focuses on digital integrated circuits and computer architecture, with a particular emphasis on security-oriented circuit and obfuscation algorithm co-design. In my doctoral work, I aim to devise innovative hardware solutions that protect critical computational systems against malicious attacks and intellectual property infringement.
 
 A data-driven personal website
 ======
